@@ -1,0 +1,161 @@
+[{
+  "_id": 1,
+  "Titulo": "Titanic",
+  "Genero": "Drama",
+  "Director": "Jame Cameron",
+  "Actores": "Kate Winslet y Leornardo DiCaprio",
+  "Pais": "Estados Unidos",
+  "Fecha_Emision": "19/12/1997"
+},{
+  "_id": 2,
+  "Titulo": "Hasta el ultimo hombre",
+  "Genero": "Drama Historia",
+  "Director": "Mel Gibson",
+  "Actores": "Andrew Garfield Vince Vaughn",
+  "Pais": "Estados Unidos y Australia",
+  "Fecha_Emision": "16/10/2016"
+},{
+  "_id": 3,
+  "Titulo": "King Kong",
+  "Genero": "Aventura",
+  "Director": "Peter Jackson",
+  "Actores": "Jack Black Naomi Watts Adrien Brody",
+  "Pais": "Estados Unidos",
+  "Fecha_Emision": "05/12/2005"
+},{
+  "_id": 4,
+  "Titulo": "Godzilla",
+  "Genero": "Ficcion",
+  "Director": "Gareth Edwards",
+  "Actores": "Aaron Taylor Elizabeth Olsen",
+  "Pais": "Estados Unidos",
+  "Fecha_Emision": "16/05/2014"
+},{
+  "_id": 5,
+  "Titulo": "Godzilla vs King Kong",
+  "Genero": "Accion Ciencia ficcion",
+  "Director": "Mel Gibson",
+  "Actores": "Andrew Garfield y Vince Vaughn",
+  "Pais": "Estados Unidos",
+  "Fecha_Emision": "31/03/2021"
+},{
+  "_id": 6,
+  "Titulo": "Escuadron 6",
+  "Genero": "Accion",
+  "Director": "Michael Bay",
+  "Actores": "Ryan Reynolds Melanie Laurent Adriana Arjona",
+  "Pais": "Estados Unidos",
+  "Fecha_Emision": "13/12/2019"
+},{
+  "_id": 7,
+  "Titulo": "Son como niños",
+  "Genero": "Comedia",
+  "Director": "Dennis Dugan",
+  "Actores": "Adam Sandler Kevin James David Spade",
+  "Pais": "Estados Unidos",
+  "Fecha_Emision": "25/06/2010"
+},{
+  "_id": 8,
+  "Titulo": "Dia de la independecia",
+  "Genero": "Accion",
+  "Director": "Roland Emmerich",
+  "Actores": "Will Smith Jeff Goldblum Bill Pullman",
+  "Pais": "Estados Unidos",
+  "Fecha_Emision": "31/03/2021"
+},{
+  "_id": 9,
+  "Titulo": "El conjuro",
+  "Genero": "Terror",
+  "Director": "James Wan",
+  "Actores": "Lorraine Warren Ed Warren",
+  "Pais": "Estados Unidos",
+  "Fecha_Emision": "19/07/2013"
+},{
+  "_id": 10,
+  "Titulo": "Dragon Ball Super: Broly",
+  "Genero": "Acción Animación",
+  "Director": "Tatsuya Nagamine",
+  "Actores": "Vic Mignogna Sonny Strait Monica Rial ",
+  "Pais": "Japon",
+  "Fecha_Emision": "14/12/2018"
+},{
+  "_id": 11,
+  "Titulo": "Dragon Ball Z: La Resurrecion De Freezer",
+  "Genero": "Acción Fantasía",
+  "Director": "Tadayoshi Yamamuro",
+  "Actores": "Christopher Sabat Sean Schemmel Kyle Hebert",
+  "Pais": "Japon",
+  "Fecha_Emision": "18/04/2015"
+},{
+  "_id": 12,
+  "Titulo": "Pixeles",
+  "Genero": "Accion",
+  "Director": "Chris Columbus",
+  "Actores": "Adam Sandler Peter Dinklage Kevin James",
+  "Pais": "Estados Unidos",
+  "Fecha_Emision": "24/07/2015"
+},{
+  "_id": 13,
+  "Titulo": "Rapidos y Furiosos",
+  "Genero": "Accion Ficcion",
+  "Director": "Louis Leterrier",
+  "Actores": "Vin Diesel Paul Walker",
+  "Pais": "Estados Unidos",
+  "Fecha_Emision": "22/06/2001"
+},{
+  "_id": 14,
+  "Titulo": "El Grinch",
+  "Genero": "Comedia",
+  "Director": "Ron Howard",
+  "Actores": "Jim Carrey Taylor Momsen",
+  "Pais": "Estados Unidos",
+  "Fecha_Emision": "17/11/2000"
+},{
+  "_id": 15,
+  "Titulo": "Sonic",
+  "Genero": "Aventura",
+  "Director": "Jeff Fowler",
+  "Actores": "Jim Carrey Ben Schwartz",
+  "Pais": "Estados Unidos",
+  "Fecha_Emision": "14/02/2020"
+},{
+  "_id": 16,
+  "Titulo": "Cars",
+  "Genero": "Comedia Animacion Drama",
+  "Director": "John Lasseter",
+  "Actores": "Owen Wilson Bonnie Hunt",
+  "Pais": "Estados Unidos",
+  "Fecha_Emision": "25/06/2006"
+},{
+  "_id": 17,
+  "Titulo": "Annabelle",
+  "Genero": "Terror",
+  "Director": "John R. Leonetti",
+  "Actores": "Annabelle Wallis Ward Horton Alfre Wooodard ",
+  "Pais": "Estados Unidos",
+  "Fecha_Emision": "03/10/2014"
+},{
+  "_id": 18,
+  "Titulo": "Black Panther: Wakanda Forever",
+  "Genero": "Accion",
+  "Director": "Ryan Coogler",
+  "Actores": "Letitia Wright Michael B. Jordan Angela Bassett",
+  "Pais": "Estados Unidos",
+  "Fecha_Emision": "26/10/2022"
+},{
+  "_id": 19,
+  "Titulo": "Pokemon",
+  "Genero": "Aventura Infantil",
+  "Director": "Kunihiko Yuyama ",
+  "Actores": " Jay Goede Megumi Hayashibara Satomi Korogi",
+  "Pais": "Japon",
+  "Fecha_Emision": "18/07/1998"
+},{
+  "_id": 20,
+  "Titulo": "Iron Man",
+  "Genero": "Accion Ciencia ficcion",
+  "Director": "Jon Favreau",
+  "Actores": "Robert Downey JR. Jon Favreau Gwyyneth Paltrow",
+  "Pais": "Estados Unidos",
+  "Fecha_Emision": "18/04/2008"
+}]
